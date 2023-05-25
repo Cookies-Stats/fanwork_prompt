@@ -11,4 +11,6 @@ This is a standalone application that generates random prompts. It doesn't requi
 4. Only .txt files can be used (these can be written in the Notepad application on Windows). The .txt files used are for fandoms, pairings, AUs, characters, locations, and tags.
 5. I have used random fandoms, pairing, characters, tags, AUs and locations from femslash heavy fandoms and top 100 lists on AO3. 
 
+Note: Windows Defender will highlight the file as a threat concern, please do run the file through whichever virus software you have to reassure yourself it is nothing more than a Prompt App. Alternatively, use the Python code I have provided to make your own app.
+
 Enjoy generating random prompts!
